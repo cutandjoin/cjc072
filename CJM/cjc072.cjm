@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2\4,1\2\5,1\3\6,1\3\7
-REM DIRNAME cjc072,folder01,folder02,folder03,folder04,folder05,folder06
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2\4,1\2\5,1\3\6,1\3\7
+DIRNAME cjc072,folder01,folder02,folder03,folder04,folder05,folder06
 
+#
 grammar_ch01.mp3
 00:00:00 5:cjc072_001
 00:01:64 5:cjc072_002
@@ -143,6 +144,7 @@ grammar_ch01.mp3
 07:02:37 7:cjc072_093
 07:04:26 6:cjc072_094
 07:09:02 0:
+#
 grammar_ch02.mp3
 00:00:00 5:cjc072_095
 00:01:62 5:cjc072_096
@@ -260,6 +262,7 @@ grammar_ch02.mp3
 05:47:08 7:cjc072_171
 05:48:70 6:cjc072_172
 05:56:72 0:
+#
 grammar_ch03.mp3
 00:00:00 5:cjc072_173
 00:01:58 5:cjc072_174
@@ -347,6 +350,7 @@ grammar_ch03.mp3
 04:30:25 7:cjc072_229
 04:32:04 6:cjc072_230
 04:37:35 0:
+#
 grammar_ch04.mp3
 00:00:00 5:cjc072_231
 00:01:66 5:cjc072_232
@@ -470,6 +474,7 @@ grammar_ch04.mp3
 06:34:65 7:cjc072_311
 06:36:22 6:cjc072_312
 06:43:15 0:
+#
 grammar_ch05.mp3
 00:00:00 5:cjc072_313
 00:02:14 5:cjc072_314
@@ -561,6 +566,7 @@ grammar_ch05.mp3
 06:27:31 6:cjc072_393
 06:28:29 6:cjc072_394
 06:31:15 0:
+#
 grammar_ch06.mp3
 00:00:00 5:cjc072_395
 00:01:62 5:cjc072_396
@@ -654,6 +660,7 @@ grammar_ch06.mp3
 04:39:06 7:cjc072_455
 04:40:72 6:cjc072_456
 04:48:43 0:
+#
 grammar_ch07.mp3
 00:00:00 5:cjc072_457
 00:01:69 5:cjc072_458
